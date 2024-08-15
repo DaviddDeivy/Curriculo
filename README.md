@@ -6,8 +6,9 @@
 <img src="https://camo.githubusercontent.com/b074687518904691dbc3f793441fc84177b60e9e2c7642ab4b3ebec7e5bd3ad9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4461766964644465697679267468656d653d626561722673686f775f69636f6e733d7472756526686964655f626f726465723d66616c7365266c61796f75743d636f6d70616374" width="400" height="300" />
 
 # Sobre mim:
-Atualmente cursando Programação Web, Possuo conhecimentos em desenvolvimento de sistemas e adquirindo conhecimentos em (Javascript, Java, C#, PostgrSQL)
-Possuo como língua secundária o Inglês no nível avançado (cursando)
+Atualmente cursando Programação Web, Possuo conhecimentos em desenvolvimento de sistemas.
+Conhecimentos em (Javascript, Java, C#, PostgrSQL, WordPress) em progresso.
+Possuo como língua secundária o Inglês no nível avançado (cursando).
 
 # Skills
 <div>
