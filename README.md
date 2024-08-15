@@ -1,3 +1,5 @@
 # Olá! 👋 Seja bem vindo ao meu perfil
 ## Me chamo Davi Henrique
-![DavidDeivy's Stats](https://github-readme-stats.vercel.app/api?username=DavidDeivy&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+![DaviddDeivy's Stats](https://github-readme-stats.vercel.app/api?username=DaviddDeivy&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+![DaviddDeivy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaviddDeivy&theme=monokai&hide_border=false)
+![DaviddDeivy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviddDeivy&theme=monokai&show_icons=true&hide_border=false&layout=compact)
