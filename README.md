@@ -20,6 +20,6 @@ Possuo como língua secundária o Inglês no nível avançado (cursando)
 
 # Contato
 <div>
-  <a href="https://www.instagram.com/daviendiniz_ofc/"
+  <a href="https://www.instagram.com/daviendiniz_ofc/" >
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 </div>
