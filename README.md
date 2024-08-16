@@ -1,4 +1,4 @@
-# Olá! 👋 Seja bem vindo ao meu perfil
+# Olá! 👋    Seja bem vindo ao meu perfil no GITHUB
 ## Me chamo Davi Henrique
 
 <img src="https://camo.githubusercontent.com/184fc220b13f19cd2ff2fc349939291dd83682e72dee6c3d9059daf6249bf6d5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4461766964644465697679267468656d653d626561722673686f775f69636f6e733d7472756526686964655f626f726465723d66616c736526636f756e745f707269766174653d74727565" width="400" height="300" />
@@ -6,6 +6,7 @@
 <img src="https://camo.githubusercontent.com/b074687518904691dbc3f793441fc84177b60e9e2c7642ab4b3ebec7e5bd3ad9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4461766964644465697679267468656d653d626561722673686f775f69636f6e733d7472756526686964655f626f726465723d66616c7365266c61796f75743d636f6d70616374" width="400" height="300" />
 
 # Sobre mim:
+
 Atualmente cursando Programação Web, Possuo conhecimentos em desenvolvimento de sistemas.
 Conhecimentos em (Javascript, Java, C#, PostgrSQL, WordPress) em progresso.
 Possuo como língua secundária o Inglês no nível avançado (cursando).
@@ -25,4 +26,7 @@ Possuo como língua secundária o Inglês no nível avançado (cursando).
 <div>
   <a href="https://www.instagram.com/daviendiniz_ofc/" >
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
+    <a href="mailto:davicngm@gmail.com.br" >
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 </div>
